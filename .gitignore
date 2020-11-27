@@ -1,2 +1,5 @@
 basetemplate/
+temp/
 push.sh
+*.swp
+
